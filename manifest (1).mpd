@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<MPD xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+     xmlns="urn:mpeg:dash:schema:mpd:2011"
+     xmlns:xlink="http://www.w3.org/1999/xlink"
+     xsi:schemaLocation="urn:mpeg:DASH:schema:MPD:2011 http://standards.iso.org/ittf/PubliclyAvailableStandards/MPEG-DASH_schema_files/DASH-MPD.xsd"
+     profiles="urn:mpeg:dash:profile:isoff-live:2011"
+     type="dynamic"
+     minimumUpdatePeriod="PT2.266S" 
+     publishTime="2024-06-19T09:28:52Z" 
+     availabilityStartTime="2024-02-13T02:22:34Z" 
+     timeShiftBufferDepth="PT24.0S"
+     suggestedPresentationDelay="PT10.0S" 
+     minBufferTime="PT6.0S">
+<ProgramInformation>
+    <Title>cartoonnetwork.smil</Title>
+</ProgramInformation>
+<Location>https://cdn08jtedge.indihometv.com/dassdvr/194/cartoonnetwork/manifest_w902404019_qRFZS.mpd?encp=&amp;uid=&amp;expp=</Location>
+<Period id="0" start="PT0.0S">
+    <AdaptationSet id="0" group="1" mimeType="video/mp4" maxWidth="1920" maxHeight="1080" par="16:9" frameRate="25" segmentAlignment="true" startWithSAP="1" subsegmentAlignment="true" subsegmentStartsWithSAP="1">
+        <SegmentTemplate timescale="90000" media="chunk_ctvideo_cfm4s_rid$RepresentationID$_cs$Time$_w902404019_qRFZS_mpd.m4s" initialization="chunk_ctvideo_cfm4s_rid$RepresentationID$_cinit_w902404019_qRFZS_mpd.m4s">
+            <SegmentTimeline>
+                <S t="989851597200" d="360000"/>
+                <S d="540000"/>
+                <S d="360000"/>
+                <S d="540000"/>
+                <S d="360000"/>
+            </SegmentTimeline>
+        </SegmentTemplate>
+        <Representation id="p0va0br426000" codecs="avc1.420029" width="640" height="360" sar="1:1" bandwidth="426000" />
+        <Representation id="p0va0br640000" codecs="avc1.4d0029" width="960" height="540" sar="1:1" bandwidth="640000" />
+        <Representation id="p0va0br960000" codecs="avc1.4d0029" width="1280" height="720" sar="1:1" bandwidth="960000" />
+        <Representation id="p0va0br1000000" codecs="avc1.640029" width="1920" height="1080" sar="1:1" bandwidth="1000000" />
+    </AdaptationSet>
+    <AdaptationSet id="1" group="2" mimeType="audio/mp4" lang="eng" segmentAlignment="true" startWithSAP="1" subsegmentAlignment="true" subsegmentStartsWithSAP="1">
+        <AudioChannelConfiguration schemeIdUri="urn:mpeg:dash:23003:3:audio_channel_configuration:2011" value="1"/>
+        <SegmentTemplate timescale="24000" media="chunk_ctaudio_cfm4s_rid$RepresentationID$_cs$Time$_w902404019_qRFZS_mpd.m4s" initialization="chunk_ctaudio_cfm4s_rid$RepresentationID$_cinit_w902404019_qRFZS_mpd.m4s">
+            <SegmentTimeline>
+                <S t="263960426184" d="96264"/>
+                <S d="144384"/>
+                <S d="95232"/>
+                <S d="144384"/>
+                <S d="96264"/>
+            </SegmentTimeline>
+        </SegmentTemplate>
+        <Representation id="p0aa0br44100" codecs="mp4a.40.2" audioSamplingRate="24000" bandwidth="44100">
+        </Representation>
+    </AdaptationSet>
+</Period>
+<UTCTiming schemeIdUri="urn:mpeg:dash:utc:direct:2014" value="2024-06-19T09:28:52Z"/>
+</MPD>
