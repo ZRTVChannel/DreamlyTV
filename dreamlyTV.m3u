@@ -323,6 +323,8 @@ https://testfunctionlive.mncnow.id/live/eds/History/sa_dash_vmx/History.mpd
 https://streaming.indihometv.com/atm/DASH/seatoday/manifest.mpd
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/National_Geographic_Wild_logo.svg/1280px-National_Geographic_Wild_logo.svg.png" group-title=Edukasi",National Geographic Wild HD (Home TV)
 http://103.127.137.190:80/Sugeng/msY9yqKyrR/76
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/2560px-Natgeologo.svg.png" group-title="Edukasi",National Geographic HD
+http://103.127.137.190:80/Sugeng/msY9yqKyrR/75
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQWOJo9ocuk6_xARYcvdOb26yX162-IMgY7D1Z3DIz2Y0MzkWsKOTQjszg&amp;s=10" group-title="Anak",Biznet Kids HD
 http://livestream.biznetvideo.net/biznet_kids/smil:kids.smil/manifest.mpd
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/1200px-Cartoon_Network_2010_logo.svg.png" group-title="Anak",Cartoon Network (Bhs.Inggris) (OS6)
