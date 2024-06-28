@@ -212,7 +212,7 @@
 https://github.com/ZRTVChannel/DreamlyTV/raw/main/DreamlyTVTestcard.ts
 #EXTINF:-1 tvg-logo="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/1fa0f907-668d-4482-b13f-29ab0ca4d0df/dheyrhh-673fddc7-5e9f-4b78-99e8-b23581b39815.jpg/v1/fit/w_828,h_828,q_70,strp/dreamly_tv_by_arluja27_dheyrhh-414w-2x.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MTI4MCIsInBhdGgiOiJcL2ZcLzFmYTBmOTA3LTY2OGQtNDQ4Mi1iMTNmLTI5YWIwY2E0ZDBkZlwvZGhleXJoaC02NzNmZGRjNy01ZTlmLTRiNzgtOTllOC1iMjM1ODFiMzk4MTUuanBnIiwid2lkdGgiOiI8PTEyODAifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6aW1hZ2Uub3BlcmF0aW9ucyJdfQ.fsWYBB3Sdb68fCaX_61xLO6I48ft0kXqE4jHUpJW0xE" group-title="Ingpo/Info",Ini DreamlyTV Tanpa donasi
 https://github.com/ZRTVChannel/DreamlyTV/raw/main/dreamlyTVmusicvibes.ts
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSjrtRK1j4VqGSjUqFfW29SxzGWkaCZXEFbzA&amp;usqp=CAU" group-title="Ingpo/Info",DreamlyTV update 27/6/2024
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSjrtRK1j4VqGSjUqFfW29SxzGWkaCZXEFbzA&amp;usqp=CAU" group-title="Ingpo/Info",DreamlyTV update 28/6/2024
 https://github.com/ZRTVChannel/DreamlyTV/raw/main/dreamlyTVmusicvibes.ts
 #EXTINF:-1 tvg-logo="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/1fa0f907-668d-4482-b13f-29ab0ca4d0df/dheyrhh-673fddc7-5e9f-4b78-99e8-b23581b39815.jpg/v1/fit/w_828,h_828,q_70,strp/dreamly_tv_by_arluja27_dheyrhh-414w-2x.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MTI4MCIsInBhdGgiOiJcL2ZcLzFmYTBmOTA3LTY2OGQtNDQ4Mi1iMTNmLTI5YWIwY2E0ZDBkZlwvZGhleXJoaC02NzNmZGRjNy01ZTlmLTRiNzgtOTllOC1iMjM1ODFiMzk4MTUuanBnIiwid2lkdGgiOiI8PTEyODAifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6aW1hZ2Uub3BlcmF0aW9ucyJdfQ.fsWYBB3Sdb68fCaX_61xLO6I48ft0kXqE4jHUpJW0xE" group-title="Ingpo/Info",Jika Erorr channel  silahkan chat beritahu kami
 https://github.com/ZRTVChannel/DreamlyTV/raw/main/dreamlyTVmusicvibes.ts
@@ -323,6 +323,8 @@ http://op-group1-swiftservehd-1.dens.tv/h/h207/index.m3u8
 http://op-group1-swiftservehd-1.dens.tv/h/h207/02.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Indosiar_2015.svg/1280px-Indosiar_2015.svg.png" group-title="Nasional",Indosiar HD (Home TV)
 http://103.127.137.190:80/Sugeng/msY9yqKyrR/5
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Indosiar_2015.svg/1280px-Indosiar_2015.svg.png" group-title="Nasional",Indosiar FHD
+http://103.155.250.139:25461/v3/Ub5dHa4TJp/228
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/SCTV_Logo.svg/640px-SCTV_Logo.svg.png" group-title="Nasional",SCTV (IndiHome TV)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
 https://streaming.indihometv.com/atm/DASH/sctv/manifest.mpd
@@ -330,10 +332,14 @@ https://streaming.indihometv.com/atm/DASH/sctv/manifest.mpd
 http://103.127.137.190:80/Sugeng/msY9yqKyrR/6
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/SCTV_Logo.svg/640px-SCTV_Logo.svg.png" group-title="Nasional",SCTV (DensTV)
 http://op-group1-swiftservehd-1.dens.tv/h/h217/02.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/SCTV_Logo.svg/640px-SCTV_Logo.svg.png" group-title="Nasional",SCTV FHD
+https://thedream.biz.id/STREAMS/esceteve.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Moji_blue.svg/640px-Moji_blue.svg.png" group-title="Nasional",Moji HD (Home TV)
 http://103.127.137.190:80/Sugeng/msY9yqKyrR/128
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Moji_blue.svg/640px-Moji_blue.svg.png" group-title="Nasional",Moji (DensTV)
 http://op-group1-swiftservesd-1.dens.tv/s/s41/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Moji_blue.svg/640px-Moji_blue.svg.png" group-title="Nasional",Moji FHD
+http://103.155.250.139:25461/v3/Ub5dHa4TJp/04
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Rajawali_Televisi_abu-abu.svg/1200px-Rajawali_Televisi_abu-abu.svg.png" group-title="Nasional",RTV (Vision+)
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
@@ -349,6 +355,12 @@ https://melon-live-cdn.mncnow.id/live/eds/Metro-TV2/sa_dash_vmx/Metro-TV2.mpd
 https://flv.intechmedia.net/live/ch107.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/iZXjOH4.png" group-title="Nasional",TVONE (IndiHome TV)
 https://streaming.indihometv.com/atm/DASH/tvone/manifest.mpd
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Indosiar_2015.svg/1280px-Indosiar_2015.svg.png" group-title="EVENT TIMNAS🇮🇩",Indosiar FHD
+http://103.155.250.139:25461/v3/Ub5dHa4TJp/228
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/SCTV_Logo.svg/640px-SCTV_Logo.svg.png" group-title="EVENT TIMNAS🇮🇩",SCTV FHD
+https://thedream.biz.id/STREAMS/esceteve.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Moji_blue.svg/640px-Moji_blue.svg.png" group-title="EVENT TIMNAS🇮🇩",MOJI FHD
+http://103.155.250.139:25461/v3/Ub5dHa4TJp/04
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/JTV_%28Indonesian_TV_channel%29_2022.svg/1280px-JTV_%28Indonesian_TV_channel%29_2022.svg.png" group-title="Daerah",JTV (IndiHome TV)
 https://streaming.indihometv.com/atm/DASH/jtv/manifest.mpd
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/640px-TVRILogo2019.svg.png" group-title="Daerah",TVRI Aceh
