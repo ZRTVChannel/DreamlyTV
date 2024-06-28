@@ -333,7 +333,7 @@ http://103.127.137.190:80/Sugeng/msY9yqKyrR/6
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/SCTV_Logo.svg/640px-SCTV_Logo.svg.png" group-title="Nasional",SCTV (DensTV)
 http://op-group1-swiftservehd-1.dens.tv/h/h217/02.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/SCTV_Logo.svg/640px-SCTV_Logo.svg.png" group-title="Nasional",SCTV FHD
-https://thedream.biz.id/STREAMS/esceteve.m3u8
+https://raw.githubusercontent.com/ZRTVChannel/DreamlyTV/main/esceteve.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Moji_blue.svg/640px-Moji_blue.svg.png" group-title="Nasional",Moji HD (Home TV)
 http://103.127.137.190:80/Sugeng/msY9yqKyrR/128
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Moji_blue.svg/640px-Moji_blue.svg.png" group-title="Nasional",Moji (DensTV)
