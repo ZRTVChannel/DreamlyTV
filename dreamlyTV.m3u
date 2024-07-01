@@ -533,7 +533,7 @@ https://cempedak-live-cdn.mncnow.id/live/eds/OKTV/sa_dash_vmx/OKTV.mpd
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/TLC_Logo.svg/2560px-TLC_Logo.svg.png" group-title="Entertainment",TLC
 http://toh-users.xyz:8080/42204120/16250164/856914
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/TLC_Logo.svg/2560px-TLC_Logo.svg.png" group-title="Entertainment",TLC (Home TV)
-http://103.127.137.190:80/Sugeng/msY9yqKyrR/86
+http://iptvkita.my.id:25461/Ahmadjunaidi/29062024/1783
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NzEwNGYwNjEtNzBjNC0zNmJjLTkwZGMtMGQ1Yjg3ZWJhZTBi
@@ -629,7 +629,7 @@ http://livestream.biznetvideo.net/biznet_kids/smil:kids.smil/manifest.mpd
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/1200px-Cartoon_Network_2010_logo.svg.png" group-title="Anak",Cartoon Network (Bhs.Inggris) (OS6)
 https://cdn1.skygo.mn/live/disk1/Cartoon_Network/HLS-FTA/Cartoon_Network.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/1200px-Cartoon_Network_2010_logo.svg.png" group-title="Anak",Cartoon Network (Bhs.Indonesia) (OS6)
-http://103.127.137.190:80/Sugeng/msY9yqKyrR/99
+http://iptvkita.my.id:25461/Ahmadjunaidi/29062024/3310
 #EXTVLCOPT:http-referrer=https://www.cubmu.com/
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
 #EXTHTTP:{"dt-custom-data":"eyJ1c2VySWQiOiJyZWFjdC1qdy1wbGF5ZXIiLCJzZXNzaW9uSWQiOiIxMjM0NTY3ODkiLCJtZXJjaGFudCI6ImdpaXRkX3RyYW5zdmlzaW9uIn0="}
@@ -849,15 +849,15 @@ https://tglmp02.akamaized.net/out/v1/b37a81eb3585471cb9c639c78edcdefa/manifest.m
 #KODIPROP:inputstream.adaptive.license_key=32bc2ee6869144b88bee3babf202f88e:50d3b9ec49e1570621d45822923607f7
 https://tglmp04.akamaized.net/out/v1/0f439c1d8a1a47fca9ae1fa92144306e/manifest.mpd
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/1280px-HBO_logo.svg.png" group-title="Film",HBO (OS6)
-http://103.127.137.190:80/Sugeng/msY9yqKyrR/21
+http://iptvkita.my.id:25461/Ahmadjunaidi/29062024/31
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/HBO_Family_Asia_logo.svg/1200px-HBO_Family_Asia_logo.svg.png" group-title="Film",HBO Family (OS6)
-http://103.127.137.190:80/Sugeng/msY9yqKyrR/24
+http://iptvkita.my.id:25461/Ahmadjunaidi/29062024/34
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/fc/HBOHits-ASIA.png" group-title="Film",HBO Hits (OS6)
-http://103.127.137.190:80/Sugeng/msY9yqKyrR/22
+http://iptvkita.my.id:25461/Ahmadjunaidi/29062024/33
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/HBO_Signature_Asia.png" group-title="Film",HBO Singature (OS6)
-http://103.127.137.190:80/Sugeng/msY9yqKyrR/23
+http://iptvkita.my.id:25461/Ahmadjunaidi/29062024/32
 #EXTINF:-1 tvg-logo="https://www.starjogja.com/assets/2017/10/CINE.png" group-title="Film",Cinemax (OS6)
-http://103.127.137.190:80/Sugeng/msY9yqKyrR/25
+http://iptvkita.my.id:25461/Ahmadjunaidi/29062024/35
 #EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/uN-9YSAGB4t2sj1D0nFEqroQ42o=/640x360/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6852/al-quran-al-kareem-tv-62095c.jpg" group-title="Channel Islam",Mekkah TV
 #EXTVLCOPT:http-referrer=https://www.dens.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
@@ -971,17 +971,17 @@ https://cempedak-live-cdn.mncnow.id/live/eds/SPOTV-HD/sa_dash_vmx/SPOTV-HD.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NzEwNGYwNjEtNzBjNC0zNmJjLTkwZGMtMGQ1Yjg3ZWJhZTBi
 #EXTINF:-1 tvg-logo="https://seeklogo.com/images/S/spo-tv-2-logo-8E2859F55D-seeklogo.com.png" group-title="Olahraga",SPOTV 2 (Vision+)
 https://cempedak-live-cdn.mncnow.id/live/eds/SPOTV2-HD/sa_dash_vmx/SPOTV2-HD.mpd
-#EXTINF:-1 tvg-logo="https://hometv.pw/logo/kids2/doraemon.png" group-title="Anak 24/7 Jam dan Lucu-Lucuan",Doraemon
-http://103.127.137.190:80/Sugeng/msY9yqKyrR/94
-#EXTINF:-1 tvg-logo="https://hometv.pw/logo/kids2/larva.png" group-title="Anak 24/7 Jam dan Lucu-Lucuan",Larva
-http://103.127.137.190:80/Sugeng/msY9yqKyrR/91
-#EXTINF:-1 tvg-logo="https://hometv.pw/logo/kids2/masha_bear.png" group-title="Anak 24/7 Jam dan Lucu-Lucuan",Masha &amp; Bear
-http://103.127.137.190:80/Sugeng/msY9yqKyrR/93
-#EXTINF:-1 tvg-logo="https://hometv.pw/logo/kids2/upin_ipin.png" group-title="Anak 24/7 Jam dan Lucu-Lucuan",Upin &amp; Ipin
-http://103.127.137.190:80/Sugeng/msY9yqKyrR/92
+#EXTINF:-1 tvg-logo="https://hometv.biz.id/logo/kids2/doraemon.png" group-title="Anak 24/7 Jam dan Lucu-Lucuan",Doraemon
+http://iptvkita.my.id:25461/Ahmadjunaidi/29062024/1790
+#EXTINF:-1 tvg-logo="https://hometv.biz.id/logo/kids2/larva.png" group-title="Anak 24/7 Jam dan Lucu-Lucuan",Larva
+http://iptvkita.my.id:25461/Ahmadjunaidi/29062024/1789
+#EXTINF:-1 tvg-logo="https://hometv.biz.id/logo/kids2/masha_bear.png" group-title="Anak 24/7 Jam dan Lucu-Lucuan",Masha And Bear
+http://iptvkita.my.id:25461/Ahmadjunaidi/29062024/1788
+#EXTINF:-1 tvg-logo="https://hometv.biz.id/logo/kids2/upin_ipin.png" group-title="Anak 24/7 Jam dan Lucu-Lucuan",Upin Dan Ipin
+http://iptvkita.my.id:25461/Ahmadjunaidi/29062024/1791
 #EXTINF:-1 tvg-logo="https://hometv.pw/logo/campur/jfl.png" group-title="Anak 24/7 Jam dan Lucu-Lucuan",Just For Laughs
 http://103.127.137.190:80/Sugeng/msY9yqKyrR/219
-#EXTINF:-1 tvg-logo="https://hometv.pw/logo/kids2/tom_jerry.png" group-title="Anak 24/7 Jam dan Lucu-Lucuan",Tom &amp; Jerry
-http://103.127.137.190:80/Sugeng/msY9yqKyrR/220
-#EXTINF:-1 tvg-logo="https://hometv.pw/logo/kids2/bean.png" group-title="Anak 24/7 Jam dan Lucu-Lucuan",Mr.Bean
-http://103.127.137.190:80/Sugeng/msY9yqKyrR/221
+#EXTINF:-1 tvg-logo="https://hometv.biz.id/logo/kids2/tom_jerry.png" group-title="Anak 24/7 Jam dan Lucu-Lucuan",Tom And Jerry
+http://iptvkita.my.id:25461/Ahmadjunaidi/29062024/29
+#EXTINF:-1 tvg-logo="https://hometv.biz.id/logo/kids2/bean.png" group-title="Anak 24/7 Jam dan Lucu-Lucuan",Mr.Bean
+http://iptvkita.my.id:25461/Ahmadjunaidi/29062024/30
