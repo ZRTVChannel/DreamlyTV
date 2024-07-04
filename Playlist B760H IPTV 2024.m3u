@@ -296,43 +296,15 @@ https://op-group1-swiftservehd-1.dens.tv/h/h193/index.m3u8?app_type=web&amp;user
 #EXTINF:-1 tvg-logo="https://i.imgur.com/wBKyT16.png" group-title="Film",My Family FHD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; V2030) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.6312.42 Mobile Safari/537.36
 https://op-group1-swiftservehd-1.dens.tv/h/h194/index.m3u8?app_type=web&amp;userid=lite&amp;chname=My_Family_Channel
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/1280px-HBO_logo.svg.png" group-title="Film",HBO MaxStream (OS6)
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://ms.mayvee.workers.dev/hbohd/license-proxy-widevine/cenc/?specConform=true
-#EXTVLCOPT:http-referrer=https://maxstream.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36
-https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(92c7b96a-33fc-4899-a032-50ae0fbc9257)/manifest.mpd
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/HBO_Family_Asia_logo.svg/1200px-HBO_Family_Asia_logo.svg.png" group-title="Film",HBO Family MaxStream (OS6)
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://ms.mayvee.workers.dev/hbofamily/license-proxy-widevine/cenc/?specConform=true
-#EXTVLCOPT:http-referrer=https://maxstream.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36
-https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(cec31cdd-d2ff-4c23-8a76-ad1c0ef025e2)/manifest.mpd
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/fc/HBOHits-ASIA.png" group-title="Film",HBO Hits MaxStream (OS6)
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://ms.mayvee.workers.dev/hbohits/license-proxy-widevine/cenc/?specConform=true
-#EXTVLCOPT:http-referrer=https://maxstream.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36
-https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(7e3ac8f2-3380-461a-976b-30bca8d939a0)/manifest.mpd
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/HBO_Signature_Asia.png" group-title="Film",HBO Signature MaxStream (OS6)
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://ms.mayvee.workers.dev/hbosign/license-proxy-widevine/cenc/?specConform=true
-#EXTVLCOPT:http-referrer=https://maxstream.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36
-https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(774b9a1e-aa1a-425b-8f24-f90d48787777)/manifest.mpd
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/1280px-HBO_logo.svg.png" group-title="Film",HBO (OS6)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/1280px-HBO_logo.svg.png" group-title="Film",HBO
 http://iptvkita.my.id:25461/Ahmadjunaidi/29062024/31
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/HBO_Family_Asia_logo.svg/1200px-HBO_Family_Asia_logo.svg.png" group-title="Film",HBO Family (OS6)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/HBO_Family_Asia_logo.svg/1200px-HBO_Family_Asia_logo.svg.png" group-title="Film",HBO Family
 http://iptvkita.my.id:25461/Ahmadjunaidi/29062024/34
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/fc/HBOHits-ASIA.png" group-title="Film",HBO Hits (OS6)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/fc/HBOHits-ASIA.png" group-title="Film",HBO Hits
 http://iptvkita.my.id:25461/Ahmadjunaidi/29062024/33
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/HBO_Signature_Asia.png" group-title="Film",HBO Singature (OS6)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/HBO_Signature_Asia.png" group-title="Film",HBO Singature
 http://iptvkita.my.id:25461/Ahmadjunaidi/29062024/32
-#EXTINF:-1 tvg-logo="https://www.starjogja.com/assets/2017/10/CINE.png" group-title="Film",Cinemax (OS6)
+#EXTINF:-1 tvg-logo="https://www.starjogja.com/assets/2017/10/CINE.png" group-title="Film",Cinemax
 http://iptvkita.my.id:25461/Ahmadjunaidi/29062024/35
 #EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/uN-9YSAGB4t2sj1D0nFEqroQ42o=/640x360/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6852/al-quran-al-kareem-tv-62095c.jpg" group-title="Channel Islam",Mekkah TV
 #EXTVLCOPT:http-referrer=https://www.dens.tv/
@@ -390,20 +362,6 @@ http://iptvkita.my.id:25461/Ahmadjunaidi/29062024/3491
 http://iptvkita.my.id:25461/Ahmadjunaidi/29062024/3492
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a4/Sportstars_4.png" group-title="Olahraga",SportStars 4
 http://iptvkita.my.id:25461/Ahmadjunaidi/29062024/3493
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e5/Logo_bein_sports_1.png" group-title="Olahraga",Bein Sports 1 (IndiHome TV)
-#EXTVLCOPT:http-referrer=https://www.indihometv.com/
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
-https://cdn08jtedge.indihometv.com/dassdvr/133/beib1/manifest.mpd
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c4/Logo_bein_sports_3.png" group-title="Olahraga",Bein Sports 3 (IndiHome TV)
-#EXTVLCOPT:http-referrer=https://www.indihometv.com/
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
-https://cdn08jtedge.indihometv.com/dassdvr/133/beib1/manifest.mpd
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e5/Logo_bein_sports_1.png" group-title="Olahraga",Bein Sports 1
 http://iptvkita.my.id:25461/Ahmadjunaidi/29062024/3486
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c4/Logo_bein_sports_3.png" group-title="Olahraga",Bein Sports 3
