@@ -388,6 +388,9 @@ https://jihulab.com/iptv2571913/inal-iptv/nasio-inal/-/raw/main/mojiTV.m3u8?ref_
 https://jihulab.com/iptv2571913/inal-iptv/nasio-inal/-/raw/main/mojiTV.m3u8?ref_type=heads
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/d/da/PLN_Mobile_Proliga_Logo.png" group-title="Event ProLiga PLN🏐",Proliga 2 FHD (Lag)
 http://iptvkita.my.id:25461/Ahmadjunaidi/29062024/1803
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/d/da/PLN_Mobile_Proliga_Logo.png" group-title="Event ProLiga PLN🏐",Proliga 3 FHD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://thedream.biz.id/live/ochannel.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/JTV_%28Indonesian_TV_channel%29_2022.svg/1280px-JTV_%28Indonesian_TV_channel%29_2022.svg.png" group-title="Daerah",JTV (IndiHome TV)
 https://streaming.indihometv.com/atm/DASH/jtv/manifest.mpd
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/640px-TVRILogo2019.svg.png" group-title="Daerah",TVRI Aceh
