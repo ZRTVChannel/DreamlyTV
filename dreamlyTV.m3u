@@ -382,15 +382,14 @@ https://yt.urfan.web.id/stream/yNKvkPJl-tg/master.m3u8
 https://thedream.biz.id/live/endosiar.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/SCTV_Logo.svg/640px-SCTV_Logo.svg.png" group-title="EVENT TIMNAS🇮🇩",SCTV FHD
 https://thedream.biz.id/live/esceteve.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Moji_blue.svg/640px-Moji_blue.svg.png" group-title="EVENT TIMNAS🇮🇩",MOJI FHD
-https://jihulab.com/iptv2571913/inal-iptv/nasio-inal/-/raw/main/mojiTV.m3u8?ref_type=heads
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/d/da/PLN_Mobile_Proliga_Logo.png" group-title="Event ProLiga PLN🏐",Proliga 1
-https://jihulab.com/iptv2571913/inal-iptv/nasio-inal/-/raw/main/mojiTV.m3u8?ref_type=heads
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Moji_blue.svg/640px-Moji_blue.svg.png" group-title="EVENT TIMNAS🇮🇩",MOJI HD
+http://103.155.250.139:25461/v3/Ub5dHa4TJp/04
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/d/da/PLN_Mobile_Proliga_Logo.png" group-title="Event ProLiga PLN🏐",Proliga 1 HD
+http://103.155.250.139:25461/v3/Ub5dHa4TJp/04
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/d/da/PLN_Mobile_Proliga_Logo.png" group-title="Event ProLiga PLN🏐",Proliga 2 FHD (Lag)
 http://iptvkita.my.id:25461/Ahmadjunaidi/29062024/1803
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/d/da/PLN_Mobile_Proliga_Logo.png" group-title="Event ProLiga PLN🏐",Proliga 3 FHD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://thedream.biz.id/live/ochannel.m3u8
+https://s.id/mojiHD_shareext-xs
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/JTV_%28Indonesian_TV_channel%29_2022.svg/1280px-JTV_%28Indonesian_TV_channel%29_2022.svg.png" group-title="Daerah",JTV (IndiHome TV)
 https://streaming.indihometv.com/atm/DASH/jtv/manifest.mpd
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/640px-TVRILogo2019.svg.png" group-title="Daerah",TVRI Aceh
