@@ -95,9 +95,9 @@ https://yt.urfan.web.id/stream/yNKvkPJl-tg/master.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/JTV_%28Indonesian_TV_channel%29_2022.svg/1280px-JTV_%28Indonesian_TV_channel%29_2022.svg.png" group-title="Daerah",JTV (IndiHome TV)
 https://streaming.indihometv.com/atm/DASH/jtv/manifest.mpd
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/internationalbroadcasts/images/8/80/2024_Copa_Am%C3%A9rica_logo.png/revision/latest?cb=20240402104618" group-title="Event Copa America",Copa America 1
-http://xtv.ooo:8080/MansoorWapda/258741/350972
+http://iptvtree.net:8080/AmirBilali/76448035/162138
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/internationalbroadcasts/images/8/80/2024_Copa_Am%C3%A9rica_logo.png/revision/latest?cb=20240402104618" group-title="Event Copa America",Copa America 2
-http://xtv.ooo:8080/owais1/12345/350972
+http://iptvtree.net:8080/AmirBilali/76448035/162138
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/640px-TVRILogo2019.svg.png" group-title="Daerah",TVRI Aceh
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 https://ott-balancer.tvri.go.id/live/eds/Aceh/hls/Aceh.m3u8
