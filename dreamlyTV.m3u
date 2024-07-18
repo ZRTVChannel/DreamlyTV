@@ -408,7 +408,7 @@ https://melon-live-cdn.mncnow.id/live/eds/Trans7-2/sa_dash_vmx/Trans7-2.mpd
 #EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/y2EK0E-_czvxzROVu4AMCuywmCw=/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/734/trans7-tv-stream-b793ab.jpg" group-title="Nasional",Trans 7 (Indihome TV)
 https://streaming.indihometv.com/atm/DASH/trans7/manifest.mpd
 #EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/y2EK0E-_czvxzROVu4AMCuywmCw=/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/734/trans7-tv-stream-b793ab.jpg" group-title="Nasional",Trans 7 HD (Home TV)
-https://github.com/ZRTVChannel/Files-home-tv/raw/main/6.m3u8
+http://103.127.97.223/auth/6.m3u8?token=3EngcsAwsKC-Am7TRylBv8QkPCvV5ztIA9U7IN91C3K53ltP6UHlxSl5RmTu-R0qb4LnttID025eZ28c5sRvQ3TrHKCwEKjyhEuNV6eeCWBaevf999xgTxA1RJQXVmUiL5KqebWFjlFyzNDX5aXuzHv22-VL3XiLMtf0YpXoPze2CHCX4MGHX9u80_dLPjhfnzRrIz1Trs-KuXIoGn2N12IxT9SwzvWs2ag1k3whRwuKkNG3JC1ToWaB0WHwFYhkkVVHwcoFDnvmpMWSSn2BHSFbn_Ediy9OWZLpjfe0okZ2nKtL8lCRQ8mt4u94WhIk7KekVnTjiC3jIaPNWzPSlthn4bgPoEJIQ0wx5TmrDGRJ0eCVe2SqEDpZuNSS0MhvRjMSaKctv1aojGQCwKvw7ebRsZ477xLDVgBLA8s84cscgaUZq_j5Z1LDSypCBfRIMw6HDmegSD6CrifTlFyE8ilOVtBkQy1k54MdYjhrKT0DVCJKXD_5QuiEhg9ZOIIcBkXrpIAhngKu6oM8XxLRq2dPpwyhrt8Xj0VmZHsywmvxquk0Z9-vkW3UAS_a0zv3Yw4PnkWHS49IPi5w5MpK4ssGfbMXBy9sGeM0yyJgn2RuKTlb4v5ZuQmV4xs5mzN8
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
 #EXTHTTP:{"dt-custom-data":"eyJ1c2VySWQiOiJyZWFjdC1qdy1wbGF5ZXIiLCJzZXNzaW9uSWQiOiIxMjM0NTY3ODkiLCJtZXJjaGFudCI6ImdpaXRkX3RyYW5zdmlzaW9uIn0="}
 #KODIPROP:inputstream.adaptive.manifest_type=dash
