@@ -409,6 +409,7 @@ https://melon-live-cdn.mncnow.id/live/eds/Trans7-2/sa_dash_vmx/Trans7-2.mpd
 https://streaming.indihometv.com/atm/DASH/trans7/manifest.mpd
 #EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/y2EK0E-_czvxzROVu4AMCuywmCw=/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/734/trans7-tv-stream-b793ab.jpg" group-title="Nasional",Trans 7 HD (Home TV)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://play.gachor99.my.id:443/play.php
 https://play.gachor99.my.id:443/play/3281wNw63QmdWeTwtif93oMx_XT3yt-ClowvFFMcmVg/m3u8
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
 #EXTHTTP:{"dt-custom-data":"eyJ1c2VySWQiOiJyZWFjdC1qdy1wbGF5ZXIiLCJzZXNzaW9uSWQiOiIxMjM0NTY3ODkiLCJtZXJjaGFudCI6ImdpaXRkX3RyYW5zdmlzaW9uIn0="}
@@ -1188,9 +1189,11 @@ https://cempedak-live-cdn.mncnow.id/live/eds/SPOTV-HD/sa_dash_vmx/SPOTV-HD.mpd
 https://cempedak-live-cdn.mncnow.id/live/eds/SPOTV2-HD/sa_dash_vmx/SPOTV2-HD.mpd
 #EXTINF:-1 tvg-logo="https://play.gachor99.my.id:443/images/tXvDTN7YzfS8wgTso2geV0kX6Oqudl9QL2I6Pl8jXLgbjoDGUgAbE-lsbfN0rb_Bndhil5IPme9AV2SurY89R7-8rDvCvrpM_7yVP4VKHCI.png" group-title="Anak 24/7 Jam dan Lucu-Lucuan",Doraemon
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://play.gachor99.my.id:443/play.php
 https://play.gachor99.my.id:443/play/3281wNw63QmdWeTwtif93kUfkPUDKEMxMk6LGUfPwBY/m3u8
 #EXTINF:-1 tvg-logo="https://play.gachor99.my.id:443/images/tXvDTN7YzfS8wgTso2geV0kX6Oqudl9QL2I6Pl8jXLhQTkjRG9cVYD7Tc6sEOr_jz2csMfcFZ7qHydU5U-D0gQ.png" group-title="Anak 24/7 Jam dan Lucu-Lucuan",Larva
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://play.gachor99.my.id:443/play.php
 https://play.gachor99.my.id:443/play/3281wNw63QmdWeTwtif93qSQ0Zf-9t5VhgyfJBhpcVo/m3u8
 #EXTINF:-1 tvg-logo="https://play.gachor99.my.id:443/images/tXvDTN7YzfS8wgTso2geV0kX6Oqudl9QL2I6Pl8jXLi8vsqH20CjlltjjAKLxNto_-TTm6J2tm4P3nqbhMD6e93r2zMfS5_bZHX1TGpGYAg.png" group-title="Anak 24/7 Jam dan Lucu-Lucuan",Masha And Bear
 http://iptvkita.my.id:25461/Ahmadjunaidi/29062024/116
@@ -1198,12 +1201,15 @@ http://iptvkita.my.id:25461/Ahmadjunaidi/29062024/116
 http://iptvkita.my.id:25461/Ahmadjunaidi/29062024/115
 #EXTINF:-1 tvg-logo="https://play.gachor99.my.id:443/images/tXvDTN7YzfS8wgTso2geV0kX6Oqudl9QL2I6Pl8jXLizYpovIn4mLYpStJwItdzw13YzA0MvNaccUfZAuP8Ojw.png" group-title="Anak 24/7 Jam dan Lucu-Lucuan",Just For Laughs
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://play.gachor99.my.id:443/play.php
 https://play.gachor99.my.id:443/play/kwxvuUqc1ysdcU9DJlqUOsxeDzVXErXvzSD0b1N9SpI/m3u8
 #EXTINF:-1 tvg-logo="https://play.gachor99.my.id:443/images/tXvDTN7YzfS8wgTso2geV0kX6Oqudl9QL2I6Pl8jXLj7YFI3Y_0p8bBNsUHBXpFCOYuhakONP9iUX9oMvysiVgii5KbeRveMFguIIlM8mak.png" group-title="Anak 24/7 Jam dan Lucu-Lucuan",Tom And Jerry
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://play.gachor99.my.id:443/play.php
 https://play.gachor99.my.id:443/play/3281wNw63QmdWeTwtif93tRGc8Y6bYeSDNp0z5dIWSU/m3u8
 #EXTINF:-1 tvg-logo="https://play.gachor99.my.id:443/images/tXvDTN7YzfS8wgTso2geV0kX6Oqudl9QL2I6Pl8jXLjZN3P6eCPVLz6-gK_R876TBEvbusdJ8yijMxi9fqR8KA.png" group-title="Anak 24/7 Jam dan Lucu-Lucuan",Mr.Bean
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://play.gachor99.my.id:443/play.php
 https://play.gachor99.my.id:443/play/DP43sZPsISqousbZ97wKeRBicdw-sArdGRSRFrpH9FQ/m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/MR6fmDw/kompastv.png" group-title="Lagu Tahun 2016",The Weeknd False Alarm (360p)
 https://rr4---sn-npoe7nsl.googlevideo.com/videoplayback?expire=1721295823&ei=b4-YZsrpKvLE9fwP3I-3uAo&ip=114.125.92.62&id=o-AJAmkGCgzvaPoPrj4ad1girmqQmfYNVLHM-Qxe-mO3dR&itag=18&source=youtube&requiressl=yes&xpc=EgVo2aDSNQ%3D%3D&gcr=id&bui=AXc671JKURx0iRCrkmjDQw-gOgDbR-GiGzrStkFK4yOIc7-1IC77kycCQB-NWSQHoc5Wf7WVDAQjXln-&vprv=1&svpuc=1&mime=video%2Fmp4&ns=2RqgPf-mSWIxa91hE-BWopoQ&rqh=1&gir=yes&clen=26278261&ratebypass=yes&dur=345.257&lmt=1714424685952233&c=TVHTML5_SIMPLY_EMBEDDED_PLAYER&sefc=1&txp=4538434&n=6Nw3u8t5Mlgp7w&sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cxpc%2Cgcr%2Cbui%2Cvprv%2Csvpuc%2Cmime%2Cns%2Crqh%2Cgir%2Cclen%2Cratebypass%2Cdur%2Clmt&sig=AJfQdSswRQIhAJsmn_KT7WBVh3skDWRhMku-bMov1j6mc0LbURD-AjpWAiBJuiHTrfe7VqWV2S5AhwH86x3pBTNTMHd5jgx4o3K_tw%3D%3D&title=The%20Weeknd%20-%20False%20Alarm%20(Official%20Video)&rm=sn-uxa3vhnxa-n0c67r,sn-npodr7l&rrc=79,104&fexp=24350516,24350518&req_id=ad016a4fdf6f36e2&redirect_counter=2&cms_redirect=yes&cmsv=e&ipbypass=yes&mh=i-&mip=103.141.47.202&mm=29&mn=sn-npoe7nsl&ms=rdu&mt=1721274054&mv=m&mvi=4&pl=24&lsparams=ipbypass,mh,mip,mm,mn,ms,mv,mvi,pl&lsig=AHlkHjAwRQIgfLtwx2FzaFE8deL_RFtjt9Buxq8UEzy0PZhoywMxL_wCIQDwPZB9wt_Y-c8T23o3ONNyz9Lm0beET4aqrhvL_7vS_Q%3D%3D
