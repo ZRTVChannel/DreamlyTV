@@ -580,7 +580,9 @@ https://play.gachor99.my.id:443/play/voybqNT3BRKqPDRYS-CkE1Yia5A9Lgya1PfgiPrVWk8
 #EXTVLCOPT:http-referrer=https://play.gachor99.my.id:443/play.php
 https://play.gachor99.my.id:443/play/A1GQzo2nYXG41-RQg_QYwgEyrjvm68F4oRbNnthmqf8/m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTC88JbNQo7sve8EpIqVesK_bz7Kv-mednL9A&usqp=CAU" group-title="EVENT TIMNAS U-19 🇮🇩",Timnas 6 (Indosiar) Lancar
-http://xtv.ooo:8080/MansoorWapda/258741/350972
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=http://xtv.ooo:8080/play.php
+http://xtv.ooo:8080/owais1/12345/350972
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/JTV_%28Indonesian_TV_channel%29_2022.svg/1280px-JTV_%28Indonesian_TV_channel%29_2022.svg.png" group-title="Daerah",JTV (IndiHome TV)
 https://streaming.indihometv.com/atm/DASH/jtv/manifest.mpd
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/640px-TVRILogo2019.svg.png" group-title="Daerah",TVRI Aceh
