@@ -1,6 +1,6 @@
-403:Forbidden
+Its Account Has Been Banned!
 
-
+Reason:Ilegal
 
 
 
@@ -385,13 +385,13 @@
 #EXTM3U
 #EXTM3U player-buffer="20" url-tvg="https://www.bevy.be/bevyfiles/indonesia.xml,https://www.bevy.be/bevyfiles/indonesiapremium1.xml,https://www.bevy.be/bevyfiles/indonesiapremium3.xml,https://www.bevy.be/bevyfiles/singaporepremium.xml.gz"tvg-url="https://www.bevy.be/bevyfiles/singaporepremium.xml" refresh="1440" max-conn="1" refresh="24"
 #EXTINF:-1 group-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSyyO3guIFflt2E3T83SFCR0qkd46EBqFeIW3Xa5LKF-W7wh8OOrms6aHqs&s=10",
-#EXTINF:-1 tvg-logo="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/1fa0f907-668d-4482-b13f-29ab0ca4d0df/di02qeb-90f6f08f-5b6f-4fef-8060-1cbb84eeb082.jpg/v1/fit/w_828,h_832,q_70,strp/dreamlytv_indonesia_by_arluja27_di02qeb-414w-2x.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9OTcyIiwicGF0aCI6IlwvZlwvMWZhMGY5MDctNjY4ZC00NDgyLWIxM2YtMjlhYjBjYTRkMGRmXC9kaTAycWViLTkwZjZmMDhmLTViNmYtNGZlZi04MDYwLTFjYmI4NGVlYjA4Mi5qcGciLCJ3aWR0aCI6Ijw9OTY3In1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmltYWdlLm9wZXJhdGlvbnMiXX0.Zt9US0wXtqqRpXqiOVA0bB_OGsv_K1b1PB4hQEQY7hU" group-title="Ingpo/Info",Test DreamlyTV
+#EXTINF:-1 tvg-logo="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/1fa0f907-668d-4482-b13f-29ab0ca4d0df/dheyrhh-673fddc7-5e9f-4b78-99e8-b23581b39815.jpg/v1/fit/w_828,h_828,q_70,strp/dreamly_tv_by_arluja27_dheyrhh-414w-2x.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MTI4MCIsInBhdGgiOiJcL2ZcLzFmYTBmOTA3LTY2OGQtNDQ4Mi1iMTNmLTI5YWIwY2E0ZDBkZlwvZGhleXJoaC02NzNmZGRjNy01ZTlmLTRiNzgtOTllOC1iMjM1ODFiMzk4MTUuanBnIiwid2lkdGgiOiI8PTEyODAifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6aW1hZ2Uub3BlcmF0aW9ucyJdfQ.fsWYBB3Sdb68fCaX_61xLO6I48ft0kXqE4jHUpJW0xE" group-title="Ingpo/Info",Test DreamlyTV
 https://github.com/ZRTVChannel/DreamlyTV/raw/main/DreamlyTVTestcard.ts
-#EXTINF:-1 tvg-logo="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/1fa0f907-668d-4482-b13f-29ab0ca4d0df/di02qeb-90f6f08f-5b6f-4fef-8060-1cbb84eeb082.jpg/v1/fit/w_828,h_832,q_70,strp/dreamlytv_indonesia_by_arluja27_di02qeb-414w-2x.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9OTcyIiwicGF0aCI6IlwvZlwvMWZhMGY5MDctNjY4ZC00NDgyLWIxM2YtMjlhYjBjYTRkMGRmXC9kaTAycWViLTkwZjZmMDhmLTViNmYtNGZlZi04MDYwLTFjYmI4NGVlYjA4Mi5qcGciLCJ3aWR0aCI6Ijw9OTY3In1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmltYWdlLm9wZXJhdGlvbnMiXX0.Zt9US0wXtqqRpXqiOVA0bB_OGsv_K1b1PB4hQEQY7hU" group-title="Ingpo/Info",Ini DreamlyTV Tanpa donasi
+#EXTINF:-1 tvg-logo="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/1fa0f907-668d-4482-b13f-29ab0ca4d0df/dheyrhh-673fddc7-5e9f-4b78-99e8-b23581b39815.jpg/v1/fit/w_828,h_828,q_70,strp/dreamly_tv_by_arluja27_dheyrhh-414w-2x.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MTI4MCIsInBhdGgiOiJcL2ZcLzFmYTBmOTA3LTY2OGQtNDQ4Mi1iMTNmLTI5YWIwY2E0ZDBkZlwvZGhleXJoaC02NzNmZGRjNy01ZTlmLTRiNzgtOTllOC1iMjM1ODFiMzk4MTUuanBnIiwid2lkdGgiOiI8PTEyODAifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6aW1hZ2Uub3BlcmF0aW9ucyJdfQ.fsWYBB3Sdb68fCaX_61xLO6I48ft0kXqE4jHUpJW0xE" group-title="Ingpo/Info",Ini DreamlyTV Tanpa donasi
 https://github.com/ZRTVChannel/DreamlyTV/raw/main/dreamlyTVmusicvibes.ts
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSjrtRK1j4VqGSjUqFfW29SxzGWkaCZXEFbzA&amp;usqp=CAU" group-title="Ingpo/Info",DreamlyTV update 31/8/2024
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSjrtRK1j4VqGSjUqFfW29SxzGWkaCZXEFbzA&amp;usqp=CAU" group-title="Ingpo/Info",DreamlyTV update 1/9/2024
 https://github.com/ZRTVChannel/DreamlyTV/raw/main/dreamlyTVmusicvibes.ts
-#EXTINF:-1 tvg-logo="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/1fa0f907-668d-4482-b13f-29ab0ca4d0df/di02qeb-90f6f08f-5b6f-4fef-8060-1cbb84eeb082.jpg/v1/fit/w_828,h_832,q_70,strp/dreamlytv_indonesia_by_arluja27_di02qeb-414w-2x.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9OTcyIiwicGF0aCI6IlwvZlwvMWZhMGY5MDctNjY4ZC00NDgyLWIxM2YtMjlhYjBjYTRkMGRmXC9kaTAycWViLTkwZjZmMDhmLTViNmYtNGZlZi04MDYwLTFjYmI4NGVlYjA4Mi5qcGciLCJ3aWR0aCI6Ijw9OTY3In1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmltYWdlLm9wZXJhdGlvbnMiXX0.Zt9US0wXtqqRpXqiOVA0bB_OGsv_K1b1PB4hQEQY7hU" group-title="Ingpo/Info",Jika Erorr channel  silahkan chat beritahu kami
+#EXTINF:-1 tvg-logo="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/1fa0f907-668d-4482-b13f-29ab0ca4d0df/dheyrhh-673fddc7-5e9f-4b78-99e8-b23581b39815.jpg/v1/fit/w_828,h_828,q_70,strp/dreamly_tv_by_arluja27_dheyrhh-414w-2x.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MTI4MCIsInBhdGgiOiJcL2ZcLzFmYTBmOTA3LTY2OGQtNDQ4Mi1iMTNmLTI5YWIwY2E0ZDBkZlwvZGhleXJoaC02NzNmZGRjNy01ZTlmLTRiNzgtOTllOC1iMjM1ODFiMzk4MTUuanBnIiwid2lkdGgiOiI8PTEyODAifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6aW1hZ2Uub3BlcmF0aW9ucyJdfQ.fsWYBB3Sdb68fCaX_61xLO6I48ft0kXqE4jHUpJW0xE" group-title="Ingpo/Info",Jika Erorr channel  silahkan chat beritahu kami
 https://github.com/ZRTVChannel/DreamlyTV/raw/main/dreamlyTVmusicvibes.ts
 #EXTINF:-1 tvg-logo="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/1fa0f907-668d-4482-b13f-29ab0ca4d0df/di02qeb-90f6f08f-5b6f-4fef-8060-1cbb84eeb082.jpg/v1/fit/w_828,h_832,q_70,strp/dreamlytv_indonesia_by_arluja27_di02qeb-414w-2x.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9OTcyIiwicGF0aCI6IlwvZlwvMWZhMGY5MDctNjY4ZC00NDgyLWIxM2YtMjlhYjBjYTRkMGRmXC9kaTAycWViLTkwZjZmMDhmLTViNmYtNGZlZi04MDYwLTFjYmI4NGVlYjA4Mi5qcGciLCJ3aWR0aCI6Ijw9OTY3In1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmltYWdlLm9wZXJhdGlvbnMiXX0.Zt9US0wXtqqRpXqiOVA0bB_OGsv_K1b1PB4hQEQY7hU" group-title="Ingpo/Info",Jangan Lupa Refresh Playlistnya
 https://github.com/ZRTVChannel/DreamlyTV/raw/main/dreamlyTVmusicvibes.ts
@@ -1319,11 +1319,8 @@ https://cdn08jtedge.indihometv.com/dassdvr/133/beib1/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
 https://cdn08jtedge.indihometv.com/dassdvr/133/beib1/manifest.mpd
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NzEwNGYwNjEtNzBjNC0zNmJjLTkwZGMtMGQ1Yjg3ZWJhZTBi
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/SPOTV_logo.svg/1200px-SPOTV_logo.svg.png" group-title="Olahraga",SPOTV (Vision+)
-https://cempedak-live-cdn.mncnow.id/live/eds/SPOTV-HD/sa_dash_vmx/SPOTV-HD.mpd
+https://mantul.biz.id:443/IPTV1/123456/4946.ts
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NzEwNGYwNjEtNzBjNC0zNmJjLTkwZGMtMGQ1Yjg3ZWJhZTBi
