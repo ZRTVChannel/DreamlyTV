@@ -389,7 +389,7 @@ Reason:Ilegal
 https://github.com/ZRTVChannel/DreamlyTV/raw/main/DreamlyTVTestcard.ts
 #EXTINF:-1 tvg-logo="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/1fa0f907-668d-4482-b13f-29ab0ca4d0df/dheyrhh-673fddc7-5e9f-4b78-99e8-b23581b39815.jpg/v1/fit/w_828,h_828,q_70,strp/dreamly_tv_by_arluja27_dheyrhh-414w-2x.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MTI4MCIsInBhdGgiOiJcL2ZcLzFmYTBmOTA3LTY2OGQtNDQ4Mi1iMTNmLTI5YWIwY2E0ZDBkZlwvZGhleXJoaC02NzNmZGRjNy01ZTlmLTRiNzgtOTllOC1iMjM1ODFiMzk4MTUuanBnIiwid2lkdGgiOiI8PTEyODAifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6aW1hZ2Uub3BlcmF0aW9ucyJdfQ.fsWYBB3Sdb68fCaX_61xLO6I48ft0kXqE4jHUpJW0xE" group-title="Ingpo/Info",Ini DreamlyTV Tanpa donasi
 https://github.com/ZRTVChannel/DreamlyTV/raw/main/dreamlyTVmusicvibes.ts
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSjrtRK1j4VqGSjUqFfW29SxzGWkaCZXEFbzA&amp;usqp=CAU" group-title="Ingpo/Info",DreamlyTV update 7/9/2024
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSjrtRK1j4VqGSjUqFfW29SxzGWkaCZXEFbzA&amp;usqp=CAU" group-title="Ingpo/Info",DreamlyTV update 8/9/2024
 https://github.com/ZRTVChannel/DreamlyTV/raw/main/dreamlyTVmusicvibes.ts
 #EXTINF:-1 tvg-logo="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/1fa0f907-668d-4482-b13f-29ab0ca4d0df/dheyrhh-673fddc7-5e9f-4b78-99e8-b23581b39815.jpg/v1/fit/w_828,h_828,q_70,strp/dreamly_tv_by_arluja27_dheyrhh-414w-2x.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MTI4MCIsInBhdGgiOiJcL2ZcLzFmYTBmOTA3LTY2OGQtNDQ4Mi1iMTNmLTI5YWIwY2E0ZDBkZlwvZGhleXJoaC02NzNmZGRjNy01ZTlmLTRiNzgtOTllOC1iMjM1ODFiMzk4MTUuanBnIiwid2lkdGgiOiI8PTEyODAifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6aW1hZ2Uub3BlcmF0aW9ucyJdfQ.fsWYBB3Sdb68fCaX_61xLO6I48ft0kXqE4jHUpJW0xE" group-title="Ingpo/Info",Jika Erorr channel  silahkan chat beritahu kami
 https://github.com/ZRTVChannel/DreamlyTV/raw/main/dreamlyTVmusicvibes.ts
@@ -567,6 +567,20 @@ https://flv.intechmedia.net/live/ch107.m3u8
 https://streaming.indihometv.com/atm/DASH/tvone/manifest.mpd
 #EXTINF:-1 tvg-id="TVOne" tvg-url="https://www.bevy.be/bevyfiles/indonesiapremium1.xml" tvg-logo="https://i.imgur.com/iZXjOH4.png" group-title="Nasional",TVONE
 https://yt.urfan.web.id/stream/yNKvkPJl-tg/master.m3u8
+#EXTINF:-1 group-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS46bJ5UiVIDRMvSI0quOKHuuilJNJOLBthRw&usqp=CAU",
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e3/Tv-channel-%E2%94%82-dazn-1.png" group-title="EVENT MOTOGP 🏍",DAZN 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=44dd9cd370b08a868ead115fe84ecfde:bff19ab0a51cf14e848389b152913fd0
+https://live.ll.ww.aiv-cdn.net/OTTB/dub-nitro/live/clients/dash/enc/bmnelo5c7a/out/v1/3ce2cdc4589f46189322bd3717c77957/cenc.mpd
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/y2EK0E-_czvxzROVu4AMCuywmCw=/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/734/trans7-tv-stream-b793ab.jpg" group-title="EVENT MOTOGP 🏍",Trans 7
+https://mantul.biz.id:443/IPTV1/123456/218.ts
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/y2EK0E-_czvxzROVu4AMCuywmCw=/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/734/trans7-tv-stream-b793ab.jpg" group-title="EVENT MOTOGP 🏍",Trans 7 FHD
+https://mantul.biz.id:443/IPTV1/123456/239.ts
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/SPOTV_logo.svg/1200px-SPOTV_logo.svg.png" group-title="EVENT MOTOGP 🏍",SPOTV
+https://mantul.biz.id:443/IPTV1/123456/4946.ts
+#EXTINF:-1 tvg-logo="https://seeklogo.com/images/S/spo-tv-2-logo-8E2859F55D-seeklogo.com.png" group-title="EVENT MOTOGP 🏍",SPOTV 2
+https://mantul.biz.id:443/IPTV1/123456/6560.ts
 #EXTINF:-1 tvg-id="JTV.id" tvg-url="https://www.bevy.be/bevyfiles/indonesiapremium2.xml" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/JTV_%28Indonesian_TV_channel%29_2022.svg/1280px-JTV_%28Indonesian_TV_channel%29_2022.svg.png" group-title="Daerah",JTV (IndiHome TV)
 https://streaming.indihometv.com/atm/DASH/jtv/manifest.mpd
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/640px-TVRILogo2019.svg.png" group-title="Daerah",TVRI Aceh
