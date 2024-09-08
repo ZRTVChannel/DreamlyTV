@@ -581,6 +581,13 @@ https://mantul.biz.id:443/IPTV1/123456/239.ts
 https://mantul.biz.id:443/IPTV1/123456/4946.ts
 #EXTINF:-1 tvg-logo="https://seeklogo.com/images/S/spo-tv-2-logo-8E2859F55D-seeklogo.com.png" group-title="EVENT MOTOGP 🏍",SPOTV 2
 https://mantul.biz.id:443/IPTV1/123456/6560.ts
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alphastro supersporta
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZmFiYmFjZmQtYzYyZi0zMGQxLWIzZTctNWFiMzZjMDA1ZWZl
+#EXTINF:-1 tvg-logo="https://seeklogo.com/images/S/spo-tv-2-logo-8E2859F55D-seeklogo.com.png" group-title="EVENT MOTOGP 🏍",SPOTV 2 (Vision+)
+https://cempedak-live-cdn.mncnow.id/live/eds/SPOTV2-HD/sa_dash_vmx/SPOTV2-HD.mpd
 #EXTINF:-1 tvg-id="JTV.id" tvg-url="https://www.bevy.be/bevyfiles/indonesiapremium2.xml" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/JTV_%28Indonesian_TV_channel%29_2022.svg/1280px-JTV_%28Indonesian_TV_channel%29_2022.svg.png" group-title="Daerah",JTV (IndiHome TV)
 https://streaming.indihometv.com/atm/DASH/jtv/manifest.mpd
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/640px-TVRILogo2019.svg.png" group-title="Daerah",TVRI Aceh
